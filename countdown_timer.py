@@ -46,3 +46,6 @@ def countdown():
 # Run countdown in the loop
 if st.session_state.running:
     countdown()
+
+# Check out the output
+# https://countdown-timer-python-project-v6d388rgwlrgw65rpeubxf.streamlit.app/
